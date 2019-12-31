@@ -15,7 +15,7 @@
 alexa accepted my skills,they verified my skill submission and right now my skill is published in amazon indian store.
 
 <p align="center">
- 
+ <a href"https://www.amazon.in/dp/B0839NB2H8">
     <img  alt="alexa image" src="https://github.com/Aman-zishan/skills-on-alexa/Screenshot from 2019-12-30 23-01-42.png"/>
- 
+  </a>
 </p>
