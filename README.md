@@ -16,6 +16,6 @@ alexa accepted my skills,they verified my skill submission and right now my skil
 
 <p align="center">
  <a href"https://www.amazon.in/dp/B0839NB2H8">
-    <img  alt="alexa image" src="https://github.com/Aman-zishan/skills-on-alexa/Screenshot from 2019-12-30 23-01-42.png"/>
+    <img  alt="screenshot" src="https://github.com/Aman-zishan/skills-on-alexa/blob/master/Screenshot%20from%202019-12-30%2023-01-42.png"/>
   </a>
 </p>
